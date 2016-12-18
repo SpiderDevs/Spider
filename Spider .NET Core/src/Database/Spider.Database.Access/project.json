@@ -1,0 +1,24 @@
+{
+  "version": "1.0.0-*",
+
+  "dependencies": {
+    "Microsoft.EntityFrameworkCore.Design.Core": "1.0.0-preview2-final",
+    "Microsoft.EntityFrameworkCore.SqlServer": "1.0.1",
+    "NETStandard.Library": "1.6.1",
+    "Spider.BusinessLogic.Interfaces": "1.0.0-*",
+    "Spider.BusinessLogic.Models": "1.0.0-*",
+    "Spider.Constant": "1.0.0-*",
+    "Spider.Core.Models": "1.0.0-*",
+    "Spider.Database.Context": "1.0.0-*",
+    "Spider.Database.Entity.Models": "1.0.0-*",
+    "Spider.Database.Interfaces": "1.0.0-*",
+    "Spider.Database.Models.Interfaces": "1.0.0-*",
+    "Spider.Interfaces": "1.0.0-*"
+  },
+
+  "frameworks": {
+    "netstandard1.6": {
+      "imports": "dnxcore50"
+    }
+  }
+}

@@ -1,0 +1,2 @@
+REDIS:  https://github.com/MSOpenTech/redis/releases
+REDIS-VIEWER: https://redisdesktop.com/download

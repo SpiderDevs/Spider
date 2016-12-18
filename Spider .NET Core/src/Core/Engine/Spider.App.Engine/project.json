@@ -1,0 +1,24 @@
+{
+  "version": "1.0.0-*",
+
+  "dependencies": {
+    "Microsoft.EntityFrameworkCore.SqlServer": "1.0.1",
+    "NETStandard.Library": "1.6.1",
+    "Spider.App.Interfaces": "1.0.0-*",
+    "Spider.App.Models": "1.0.0-*",
+    "Spider.BusinessLogic": "1.0.0-*",
+    "Spider.Cache": "1.0.0-*",
+    "Spider.Database.Access": "1.0.0-*",
+    "Spider.Database.Interfaces": "1.0.0-*",
+    "Spider.Exceptions": "1.0.0-*",
+    "Spider.Helpers": "1.0.0-*",
+    "Spider.Interfaces": "1.0.0-*",
+    "Spider.Services": "1.0.0-*"
+  },
+
+  "frameworks": {
+    "netstandard1.6": {
+      "imports": "dnxcore50"
+    }
+  }
+}

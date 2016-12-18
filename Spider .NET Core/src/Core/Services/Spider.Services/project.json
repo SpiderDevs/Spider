@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0-*",
+
+  "dependencies": {
+    "NETStandard.Library": "1.6.1",
+    "Spider.App.Interfaces": "1.0.0-*",
+    "Spider.App.Models": "1.0.0-*",
+    "Spider.Constant": "1.0.0-*",
+    "Spider.Core.Models": "1.0.0-*",
+    "Spider.Extensions": "1.0.0-*",
+    "Spider.Interfaces": "1.0.0-*",
+    "Spider.View.Models": "1.0.0-*"
+  },
+
+  "frameworks": {
+    "netstandard1.6": {
+      "imports": "dnxcore50"
+    }
+  }
+}

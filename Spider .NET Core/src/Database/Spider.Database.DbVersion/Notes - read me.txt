@@ -1,0 +1,1 @@
+﻿TODO: Creeate own mevhanism running scripts for db update.  I don't like .net mechanism. Id love to have pure sql scripts.

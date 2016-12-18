@@ -1,0 +1,6 @@
+﻿{
+  "projects": [ "src", "test", "src/Core/Engine", "src/Core/Common", "src/Utility", "src/Api", "src/Core/Services", "src/Database", "src/Core/BusinessLogic" ],
+  "sdk": {
+    "version": "1.0.0-preview2-003131"
+  }
+}
