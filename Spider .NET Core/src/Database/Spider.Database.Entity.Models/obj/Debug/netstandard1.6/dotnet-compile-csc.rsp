@@ -8,8 +8,8 @@
 -debug:full
 -nostdlib
 -nologo
-"G:\Tomasz\Spider\Spider\src\Database\Spider.Database.Entity.Models\obj\Debug\netstandard1.6\dotnet-compile.assemblyinfo.cs"
--out:"G:\Tomasz\Spider\Spider\src\Database\Spider.Database.Entity.Models\bin\Debug\netstandard1.6\Spider.Database.Entity.Models.dll"
+"G:\Git\Spider\Spider\Spider .NET Core\src\Database\Spider.Database.Entity.Models\obj\Debug\netstandard1.6\dotnet-compile.assemblyinfo.cs"
+-out:"G:\Git\Spider\Spider\Spider .NET Core\src\Database\Spider.Database.Entity.Models\bin\Debug\netstandard1.6\Spider.Database.Entity.Models.dll"
 -r:"C:\Users\Tomasz\.nuget\packages\Microsoft.EntityFrameworkCore\1.0.1\lib\netstandard1.3\Microsoft.EntityFrameworkCore.dll"
 -r:"C:\Users\Tomasz\.nuget\packages\Microsoft.Extensions.Caching.Abstractions\1.0.0\lib\netstandard1.0\Microsoft.Extensions.Caching.Abstractions.dll"
 -r:"C:\Users\Tomasz\.nuget\packages\Microsoft.Extensions.Caching.Memory\1.0.0\lib\netstandard1.3\Microsoft.Extensions.Caching.Memory.dll"
@@ -69,9 +69,9 @@
 -r:"C:\Users\Tomasz\.nuget\packages\System.Threading.Timer\4.3.0\ref\netstandard1.2\System.Threading.Timer.dll"
 -r:"C:\Users\Tomasz\.nuget\packages\System.Xml.ReaderWriter\4.3.0\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\Tomasz\.nuget\packages\System.Xml.XDocument\4.3.0\ref\netstandard1.3\System.Xml.XDocument.dll"
--r:"G:\Tomasz\Spider\Spider\src\Core\BusinessLogic\Spider.BusinessLogic.Interfaces\bin\Debug\netstandard1.6\Spider.BusinessLogic.Interfaces.dll"
--r:"G:\Tomasz\Spider\Spider\src\Core\Common\Spider.Core.Models\bin\Debug\netstandard1.6\Spider.Core.Models.dll"
--r:"G:\Tomasz\Spider\Spider\src\Database\Spider.Database.Models.Interfaces\bin\Debug\netstandard1.6\Spider.Database.Models.Interfaces.dll"
--r:"G:\Tomasz\Spider\Spider\src\Core\Common\Spider.Interfaces\bin\Debug\netstandard1.6\Spider.Interfaces.dll"
-"G:\Tomasz\Spider\Spider\src\Database\Spider.Database.Entity.Models\UserEntity.cs"
-"G:\Tomasz\Spider\Spider\src\Database\Spider.Database.Entity.Models\Properties\AssemblyInfo.cs"
+-r:"G:\Git\Spider\Spider\Spider .NET Core\src\Core\BusinessLogic\Spider.BusinessLogic.Interfaces\bin\Debug\netstandard1.6\Spider.BusinessLogic.Interfaces.dll"
+-r:"G:\Git\Spider\Spider\Spider .NET Core\src\Core\Common\Spider.Core.Models\bin\Debug\netstandard1.6\Spider.Core.Models.dll"
+-r:"G:\Git\Spider\Spider\Spider .NET Core\src\Database\Spider.Database.Models.Interfaces\bin\Debug\netstandard1.6\Spider.Database.Models.Interfaces.dll"
+-r:"G:\Git\Spider\Spider\Spider .NET Core\src\Core\Common\Spider.Interfaces\bin\Debug\netstandard1.6\Spider.Interfaces.dll"
+"G:\Git\Spider\Spider\Spider .NET Core\src\Database\Spider.Database.Entity.Models\UserEntity.cs"
+"G:\Git\Spider\Spider\Spider .NET Core\src\Database\Spider.Database.Entity.Models\Properties\AssemblyInfo.cs"

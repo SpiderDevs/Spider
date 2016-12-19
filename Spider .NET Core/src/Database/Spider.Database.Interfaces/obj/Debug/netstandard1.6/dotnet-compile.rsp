@@ -1,5 +1,5 @@
---temp-output:G:\Tomasz\Spider\Spider\src\Database\Spider.Database.Interfaces\obj\Debug\netstandard1.6\
---out:G:\Tomasz\Spider\Spider\src\Database\Spider.Database.Interfaces\bin\Debug\netstandard1.6\Spider.Database.Interfaces.dll
+--temp-output:G:\Git\Spider\Spider\Spider .NET Core\src\Database\Spider.Database.Interfaces\obj\Debug\netstandard1.6\
+--out:G:\Git\Spider\Spider\Spider .NET Core\src\Database\Spider.Database.Interfaces\bin\Debug\netstandard1.6\Spider.Database.Interfaces.dll
 --define:DEBUG
 --define:TRACE
 --define:NETSTANDARD1_6
@@ -71,8 +71,8 @@
 --reference:C:\Users\Tomasz\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\Tomasz\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\Tomasz\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
---reference:G:\Tomasz\Spider\Spider\src\Core\BusinessLogic\Spider.BusinessLogic.Interfaces\bin\Debug\netstandard1.6\Spider.BusinessLogic.Interfaces.dll
---reference:G:\Tomasz\Spider\Spider\src\Core\BusinessLogic\Spider.BusinessLogic.Models\bin\Debug\netstandard1.6\Spider.BusinessLogic.Models.dll
---reference:G:\Tomasz\Spider\Spider\src\Core\Common\Spider.Core.Models\bin\Debug\netstandard1.6\Spider.Core.Models.dll
---reference:G:\Tomasz\Spider\Spider\src\Database\Spider.Database.Models.Interfaces\bin\Debug\netstandard1.6\Spider.Database.Models.Interfaces.dll
-G:\Tomasz\Spider\Spider\src\Database\Spider.Database.Interfaces\Properties\AssemblyInfo.cs
+--reference:G:\Git\Spider\Spider\Spider .NET Core\src\Core\BusinessLogic\Spider.BusinessLogic.Interfaces\bin\Debug\netstandard1.6\Spider.BusinessLogic.Interfaces.dll
+--reference:G:\Git\Spider\Spider\Spider .NET Core\src\Core\BusinessLogic\Spider.BusinessLogic.Models\bin\Debug\netstandard1.6\Spider.BusinessLogic.Models.dll
+--reference:G:\Git\Spider\Spider\Spider .NET Core\src\Core\Common\Spider.Core.Models\bin\Debug\netstandard1.6\Spider.Core.Models.dll
+--reference:G:\Git\Spider\Spider\Spider .NET Core\src\Database\Spider.Database.Models.Interfaces\bin\Debug\netstandard1.6\Spider.Database.Models.Interfaces.dll
+G:\Git\Spider\Spider\Spider .NET Core\src\Database\Spider.Database.Interfaces\Properties\AssemblyInfo.cs

@@ -1,5 +1,5 @@
---temp-output:G:\Tomasz\Spider\Spider\src\Core\Common\Spider.Interfaces\obj\Debug\netstandard1.6\
---out:G:\Tomasz\Spider\Spider\src\Core\Common\Spider.Interfaces\bin\Debug\netstandard1.6\Spider.Interfaces.dll
+--temp-output:G:\Git\Spider\Spider\Spider .NET Core\src\Core\Common\Spider.Interfaces\obj\Debug\netstandard1.6\
+--out:G:\Git\Spider\Spider\Spider .NET Core\src\Core\Common\Spider.Interfaces\bin\Debug\netstandard1.6\Spider.Interfaces.dll
 --define:DEBUG
 --define:TRACE
 --define:NETSTANDARD1_6
@@ -71,19 +71,19 @@
 --reference:C:\Users\Tomasz\.nuget\packages\System.Threading.Timer\4.3.0\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\Tomasz\.nuget\packages\System.Xml.ReaderWriter\4.3.0\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\Tomasz\.nuget\packages\System.Xml.XDocument\4.3.0\ref\netstandard1.3\System.Xml.XDocument.dll
---reference:G:\Tomasz\Spider\Spider\src\Core\BusinessLogic\Spider.BusinessLogic.Interfaces\bin\Debug\netstandard1.6\Spider.BusinessLogic.Interfaces.dll
---reference:G:\Tomasz\Spider\Spider\src\Core\Common\Spider.Core.Models\bin\Debug\netstandard1.6\Spider.Core.Models.dll
-G:\Tomasz\Spider\Spider\src\Core\Common\Spider.Interfaces\ICacheService.cs
-G:\Tomasz\Spider\Spider\src\Core\Common\Spider.Interfaces\ILogger.cs
-G:\Tomasz\Spider\Spider\src\Core\Common\Spider.Interfaces\IService.cs
-G:\Tomasz\Spider\Spider\src\Core\Common\Spider.Interfaces\IServiceContext.cs
-G:\Tomasz\Spider\Spider\src\Core\Common\Spider.Interfaces\IUser.cs
-G:\Tomasz\Spider\Spider\src\Core\Common\Spider.Interfaces\IValidate.cs
-G:\Tomasz\Spider\Spider\src\Core\Common\Spider.Interfaces\BusinessLogic\IBusinessLogic.cs
-G:\Tomasz\Spider\Spider\src\Core\Common\Spider.Interfaces\BusinessLogic\IUserAuthenticationBusinessLogic.cs
-G:\Tomasz\Spider\Spider\src\Core\Common\Spider.Interfaces\BusinessLogic\IUserBusinessLogic.cs
-G:\Tomasz\Spider\Spider\src\Core\Common\Spider.Interfaces\Database\IRepositories.cs
-G:\Tomasz\Spider\Spider\src\Core\Common\Spider.Interfaces\Database\IRerpositoryBase.cs
-G:\Tomasz\Spider\Spider\src\Core\Common\Spider.Interfaces\Database\IUserRepository.cs
-G:\Tomasz\Spider\Spider\src\Core\Common\Spider.Interfaces\Database\Entities\IUserEntity.cs
-G:\Tomasz\Spider\Spider\src\Core\Common\Spider.Interfaces\Properties\AssemblyInfo.cs
+--reference:G:\Git\Spider\Spider\Spider .NET Core\src\Core\BusinessLogic\Spider.BusinessLogic.Interfaces\bin\Debug\netstandard1.6\Spider.BusinessLogic.Interfaces.dll
+--reference:G:\Git\Spider\Spider\Spider .NET Core\src\Core\Common\Spider.Core.Models\bin\Debug\netstandard1.6\Spider.Core.Models.dll
+G:\Git\Spider\Spider\Spider .NET Core\src\Core\Common\Spider.Interfaces\ICacheService.cs
+G:\Git\Spider\Spider\Spider .NET Core\src\Core\Common\Spider.Interfaces\ILogger.cs
+G:\Git\Spider\Spider\Spider .NET Core\src\Core\Common\Spider.Interfaces\IService.cs
+G:\Git\Spider\Spider\Spider .NET Core\src\Core\Common\Spider.Interfaces\IServiceContext.cs
+G:\Git\Spider\Spider\Spider .NET Core\src\Core\Common\Spider.Interfaces\IUser.cs
+G:\Git\Spider\Spider\Spider .NET Core\src\Core\Common\Spider.Interfaces\IValidate.cs
+G:\Git\Spider\Spider\Spider .NET Core\src\Core\Common\Spider.Interfaces\BusinessLogic\IBusinessLogic.cs
+G:\Git\Spider\Spider\Spider .NET Core\src\Core\Common\Spider.Interfaces\BusinessLogic\IUserAuthenticationBusinessLogic.cs
+G:\Git\Spider\Spider\Spider .NET Core\src\Core\Common\Spider.Interfaces\BusinessLogic\IUserBusinessLogic.cs
+G:\Git\Spider\Spider\Spider .NET Core\src\Core\Common\Spider.Interfaces\Database\IRepositories.cs
+G:\Git\Spider\Spider\Spider .NET Core\src\Core\Common\Spider.Interfaces\Database\IRerpositoryBase.cs
+G:\Git\Spider\Spider\Spider .NET Core\src\Core\Common\Spider.Interfaces\Database\IUserRepository.cs
+G:\Git\Spider\Spider\Spider .NET Core\src\Core\Common\Spider.Interfaces\Database\Entities\IUserEntity.cs
+G:\Git\Spider\Spider\Spider .NET Core\src\Core\Common\Spider.Interfaces\Properties\AssemblyInfo.cs

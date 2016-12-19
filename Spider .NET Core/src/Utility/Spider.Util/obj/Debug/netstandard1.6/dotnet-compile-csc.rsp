@@ -8,8 +8,8 @@
 -debug:full
 -nostdlib
 -nologo
-"G:\Tomasz\Spider\Spider\src\Utility\Spider.Util\obj\Debug\netstandard1.6\dotnet-compile.assemblyinfo.cs"
--out:"G:\Tomasz\Spider\Spider\src\Utility\Spider.Util\bin\Debug\netstandard1.6\Spider.Util.dll"
+"G:\Git\Spider\Spider\Spider .NET Core\src\Utility\Spider.Util\obj\Debug\netstandard1.6\dotnet-compile.assemblyinfo.cs"
+-out:"G:\Git\Spider\Spider\Spider .NET Core\src\Utility\Spider.Util\bin\Debug\netstandard1.6\Spider.Util.dll"
 -r:"C:\Users\Tomasz\.nuget\packages\Microsoft.CSharp\4.0.1\ref\netstandard1.0\Microsoft.CSharp.dll"
 -r:"C:\Users\Tomasz\.nuget\packages\Microsoft.Win32.Primitives\4.3.0\ref\netstandard1.3\Microsoft.Win32.Primitives.dll"
 -r:"C:\Users\Tomasz\.nuget\packages\Newtonsoft.Json\9.0.1\lib\netstandard1.0\Newtonsoft.Json.dll"
@@ -57,5 +57,5 @@
 -r:"C:\Users\Tomasz\.nuget\packages\System.Threading.Timer\4.3.0\ref\netstandard1.2\System.Threading.Timer.dll"
 -r:"C:\Users\Tomasz\.nuget\packages\System.Xml.ReaderWriter\4.3.0\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\Tomasz\.nuget\packages\System.Xml.XDocument\4.3.0\ref\netstandard1.3\System.Xml.XDocument.dll"
--r:"G:\Tomasz\Spider\Spider\src\Utility\Spider.Helpers\bin\Debug\netstandard1.6\Spider.Helpers.dll"
-"G:\Tomasz\Spider\Spider\src\Utility\Spider.Util\Properties\AssemblyInfo.cs"
+-r:"G:\Git\Spider\Spider\Spider .NET Core\src\Utility\Spider.Helpers\bin\Debug\netstandard1.6\Spider.Helpers.dll"
+"G:\Git\Spider\Spider\Spider .NET Core\src\Utility\Spider.Util\Properties\AssemblyInfo.cs"

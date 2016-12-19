@@ -1,5 +1,5 @@
---temp-output:G:\Tomasz\Spider\Spider\src\Utility\Spider.Util\obj\Debug\netstandard1.6\
---out:G:\Tomasz\Spider\Spider\src\Utility\Spider.Util\bin\Debug\netstandard1.6\Spider.Util.dll
+--temp-output:G:\Git\Spider\Spider\Spider .NET Core\src\Utility\Spider.Util\obj\Debug\netstandard1.6\
+--out:G:\Git\Spider\Spider\Spider .NET Core\src\Utility\Spider.Util\bin\Debug\netstandard1.6\Spider.Util.dll
 --define:DEBUG
 --define:TRACE
 --define:NETSTANDARD1_6
@@ -59,5 +59,5 @@
 --reference:C:\Users\Tomasz\.nuget\packages\System.Threading.Timer\4.3.0\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\Tomasz\.nuget\packages\System.Xml.ReaderWriter\4.3.0\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\Tomasz\.nuget\packages\System.Xml.XDocument\4.3.0\ref\netstandard1.3\System.Xml.XDocument.dll
---reference:G:\Tomasz\Spider\Spider\src\Utility\Spider.Helpers\bin\Debug\netstandard1.6\Spider.Helpers.dll
-G:\Tomasz\Spider\Spider\src\Utility\Spider.Util\Properties\AssemblyInfo.cs
+--reference:G:\Git\Spider\Spider\Spider .NET Core\src\Utility\Spider.Helpers\bin\Debug\netstandard1.6\Spider.Helpers.dll
+G:\Git\Spider\Spider\Spider .NET Core\src\Utility\Spider.Util\Properties\AssemblyInfo.cs

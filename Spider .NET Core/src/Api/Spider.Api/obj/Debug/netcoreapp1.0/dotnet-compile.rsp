@@ -1,5 +1,5 @@
---temp-output:G:\Tomasz\Spider\Spider\src\Api\Spider.Api\obj\Debug\netcoreapp1.0\
---out:G:\Tomasz\Spider\Spider\src\Api\Spider.Api\bin\Debug\netcoreapp1.0\Spider.Api.dll
+--temp-output:G:\Git\Spider\Spider\Spider .NET Core\src\Api\Spider.Api\obj\Debug\netcoreapp1.0\
+--out:G:\Git\Spider\Spider\Spider .NET Core\src\Api\Spider.Api\bin\Debug\netcoreapp1.0\Spider.Api.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -195,29 +195,29 @@
 --reference:C:\Users\Tomasz\.nuget\packages\System.Xml.ReaderWriter\4.3.0\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\Tomasz\.nuget\packages\System.Xml.XDocument\4.3.0\ref\netstandard1.3\System.Xml.XDocument.dll
 --reference:C:\Users\Tomasz\.nuget\packages\System.Xml.XmlSerializer\4.0.11\ref\netstandard1.3\System.Xml.XmlSerializer.dll
---reference:G:\Tomasz\Spider\Spider\src\Core\Engine\Spider.App.Engine\bin\Debug\netstandard1.6\Spider.App.Engine.dll
---reference:G:\Tomasz\Spider\Spider\src\Core\Engine\Spider.App.Interfaces\bin\Debug\netstandard1.6\Spider.App.Interfaces.dll
---reference:G:\Tomasz\Spider\Spider\src\Core\Engine\Spider.App.Models\bin\Debug\netstandard1.6\Spider.App.Models.dll
---reference:G:\Tomasz\Spider\Spider\src\Core\BusinessLogic\Spider.BusinessLogic\bin\Debug\netstandard1.6\Spider.BusinessLogic.dll
---reference:G:\Tomasz\Spider\Spider\src\Core\BusinessLogic\Spider.BusinessLogic.Interfaces\bin\Debug\netstandard1.6\Spider.BusinessLogic.Interfaces.dll
---reference:G:\Tomasz\Spider\Spider\src\Core\BusinessLogic\Spider.BusinessLogic.Models\bin\Debug\netstandard1.6\Spider.BusinessLogic.Models.dll
---reference:G:\Tomasz\Spider\Spider\src\Core\Common\Spider.Cache\bin\Debug\netstandard1.6\Spider.Cache.dll
---reference:G:\Tomasz\Spider\Spider\src\Utility\Spider.Constant\bin\Debug\netstandard1.6\Spider.Constant.dll
---reference:G:\Tomasz\Spider\Spider\src\Core\Common\Spider.Core.Models\bin\Debug\netstandard1.6\Spider.Core.Models.dll
---reference:G:\Tomasz\Spider\Spider\src\Database\Spider.Database.Access\bin\Debug\netstandard1.6\Spider.Database.Access.dll
---reference:G:\Tomasz\Spider\Spider\src\Database\Spider.Database.Context\bin\Debug\netstandard1.6\Spider.Database.Context.dll
---reference:G:\Tomasz\Spider\Spider\src\Database\Spider.Database.Entity.Models\bin\Debug\netstandard1.6\Spider.Database.Entity.Models.dll
---reference:G:\Tomasz\Spider\Spider\src\Database\Spider.Database.Interfaces\bin\Debug\netstandard1.6\Spider.Database.Interfaces.dll
---reference:G:\Tomasz\Spider\Spider\src\Database\Spider.Database.Models.Interfaces\bin\Debug\netstandard1.6\Spider.Database.Models.Interfaces.dll
---reference:G:\Tomasz\Spider\Spider\src\Core\Common\Spider.Exceptions\bin\Debug\netstandard1.6\Spider.Exceptions.dll
---reference:G:\Tomasz\Spider\Spider\src\Utility\Spider.Extensions\bin\Debug\netstandard1.6\Spider.Extensions.dll
---reference:G:\Tomasz\Spider\Spider\src\Utility\Spider.Helpers\bin\Debug\netstandard1.6\Spider.Helpers.dll
---reference:G:\Tomasz\Spider\Spider\src\Core\Common\Spider.Interfaces\bin\Debug\netstandard1.6\Spider.Interfaces.dll
---reference:G:\Tomasz\Spider\Spider\src\Core\Services\Spider.Services\bin\Debug\netstandard1.6\Spider.Services.dll
---reference:G:\Tomasz\Spider\Spider\src\Utility\Spider.Utility.Encryption\bin\Debug\netstandard1.6\Spider.Utility.Encryption.dll
---reference:G:\Tomasz\Spider\Spider\src\Api\Spider.View.Models\bin\Debug\netstandard1.6\Spider.View.Models.dll
---resource:"G:\Tomasz\Spider\Spider\src\Api\Spider.Api\obj\Debug\netcoreapp1.0\Spider.Apidotnet-compile.deps.json",Spider.Api.deps.json
-G:\Tomasz\Spider\Spider\src\Api\Spider.Api\Program.cs
-G:\Tomasz\Spider\Spider\src\Api\Spider.Api\Startup.cs
-G:\Tomasz\Spider\Spider\src\Api\Spider.Api\VMRequestModel.cs
-G:\Tomasz\Spider\Spider\src\Api\Spider.Api\Controllers\ApiController.cs
+--reference:G:\Git\Spider\Spider\Spider .NET Core\src\Core\Engine\Spider.App.Engine\bin\Debug\netstandard1.6\Spider.App.Engine.dll
+--reference:G:\Git\Spider\Spider\Spider .NET Core\src\Core\Engine\Spider.App.Interfaces\bin\Debug\netstandard1.6\Spider.App.Interfaces.dll
+--reference:G:\Git\Spider\Spider\Spider .NET Core\src\Core\Engine\Spider.App.Models\bin\Debug\netstandard1.6\Spider.App.Models.dll
+--reference:G:\Git\Spider\Spider\Spider .NET Core\src\Core\BusinessLogic\Spider.BusinessLogic\bin\Debug\netstandard1.6\Spider.BusinessLogic.dll
+--reference:G:\Git\Spider\Spider\Spider .NET Core\src\Core\BusinessLogic\Spider.BusinessLogic.Interfaces\bin\Debug\netstandard1.6\Spider.BusinessLogic.Interfaces.dll
+--reference:G:\Git\Spider\Spider\Spider .NET Core\src\Core\BusinessLogic\Spider.BusinessLogic.Models\bin\Debug\netstandard1.6\Spider.BusinessLogic.Models.dll
+--reference:G:\Git\Spider\Spider\Spider .NET Core\src\Core\Common\Spider.Cache\bin\Debug\netstandard1.6\Spider.Cache.dll
+--reference:G:\Git\Spider\Spider\Spider .NET Core\src\Utility\Spider.Constant\bin\Debug\netstandard1.6\Spider.Constant.dll
+--reference:G:\Git\Spider\Spider\Spider .NET Core\src\Core\Common\Spider.Core.Models\bin\Debug\netstandard1.6\Spider.Core.Models.dll
+--reference:G:\Git\Spider\Spider\Spider .NET Core\src\Database\Spider.Database.Access\bin\Debug\netstandard1.6\Spider.Database.Access.dll
+--reference:G:\Git\Spider\Spider\Spider .NET Core\src\Database\Spider.Database.Context\bin\Debug\netstandard1.6\Spider.Database.Context.dll
+--reference:G:\Git\Spider\Spider\Spider .NET Core\src\Database\Spider.Database.Entity.Models\bin\Debug\netstandard1.6\Spider.Database.Entity.Models.dll
+--reference:G:\Git\Spider\Spider\Spider .NET Core\src\Database\Spider.Database.Interfaces\bin\Debug\netstandard1.6\Spider.Database.Interfaces.dll
+--reference:G:\Git\Spider\Spider\Spider .NET Core\src\Database\Spider.Database.Models.Interfaces\bin\Debug\netstandard1.6\Spider.Database.Models.Interfaces.dll
+--reference:G:\Git\Spider\Spider\Spider .NET Core\src\Core\Common\Spider.Exceptions\bin\Debug\netstandard1.6\Spider.Exceptions.dll
+--reference:G:\Git\Spider\Spider\Spider .NET Core\src\Utility\Spider.Extensions\bin\Debug\netstandard1.6\Spider.Extensions.dll
+--reference:G:\Git\Spider\Spider\Spider .NET Core\src\Utility\Spider.Helpers\bin\Debug\netstandard1.6\Spider.Helpers.dll
+--reference:G:\Git\Spider\Spider\Spider .NET Core\src\Core\Common\Spider.Interfaces\bin\Debug\netstandard1.6\Spider.Interfaces.dll
+--reference:G:\Git\Spider\Spider\Spider .NET Core\src\Core\Services\Spider.Services\bin\Debug\netstandard1.6\Spider.Services.dll
+--reference:G:\Git\Spider\Spider\Spider .NET Core\src\Utility\Spider.Utility.Encryption\bin\Debug\netstandard1.6\Spider.Utility.Encryption.dll
+--reference:G:\Git\Spider\Spider\Spider .NET Core\src\Api\Spider.View.Models\bin\Debug\netstandard1.6\Spider.View.Models.dll
+--resource:"G:\Git\Spider\Spider\Spider .NET Core\src\Api\Spider.Api\obj\Debug\netcoreapp1.0\Spider.Apidotnet-compile.deps.json",Spider.Api.deps.json
+G:\Git\Spider\Spider\Spider .NET Core\src\Api\Spider.Api\Program.cs
+G:\Git\Spider\Spider\Spider .NET Core\src\Api\Spider.Api\Startup.cs
+G:\Git\Spider\Spider\Spider .NET Core\src\Api\Spider.Api\VMRequestModel.cs
+G:\Git\Spider\Spider\Spider .NET Core\src\Api\Spider.Api\Controllers\ApiController.cs

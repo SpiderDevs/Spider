@@ -41,3 +41,9 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.rsp
+*.pdb
+Spider .NET Core/src/Utility/Spider.Utility.Encryption/bin/Debug/netstandard1.6/Spider.Utility.Encryption.dll
+*.pdb
+*.IncrementalCache
+*.dll
