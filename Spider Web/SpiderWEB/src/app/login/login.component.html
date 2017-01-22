@@ -1,0 +1,30 @@
+<md-sidenav-layout [class.m2app-dark]="isDarkTheme">
+
+	<md-sidenav #sidenav mode="side" class="app-sidenav">
+		Sidenav
+	</md-sidenav>
+
+
+	<div class="app-content">
+		<div class="app-vertical-center-section">
+			<div class="flex-container" fxLayout="row" fxLayout.xs="column" fxLayoutAlign="center center" fxLayoutAlign.xs="20%">
+				<div class="flex-item"> </div>
+				<div class="flex-item" fxFlex="300px">
+					<md-card class="app-login-section">
+						<div class="flex-container" fxLayout="column" fxLayout.xs="column" fxLayoutAlign="space-around" fxLayoutAlign.xs="20%">
+							<div class="flex-item padding-imput"> <H3 class="spider-padding">Hello!</H3> </div>
+				
+                        	<md-input placeholder="Login" class="flex-item spider-padding"></md-input>
+							<md-input placeholder="Password" class="flex-item spider-padding"></md-input>
+							<md-checkbox class="flex-item spider-padding" [checked]="false">Remember me</md-checkbox>
+							<button class="flex-item spider-padding" md-raised-button color="accent">LogIn</button>
+							<div class="flex-item spider-padding"> <label>You don't have an account. Register right now for free!</label> </div>
+						</div>
+					</md-card>
+				</div>
+				<div class="flex-item"> </div>
+			</div>
+		</div>
+
+	</div>
+</md-sidenav-layout>
